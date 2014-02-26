@@ -1,0 +1,20 @@
+.ui-autocomplete-loading {
+	background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
+}
+
+body {
+	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";
+	font-size: 62.5%;
+}
+
+#dvLoading
+{
+   background:#FFFFFF url(images/loading_selected.gif) no-repeat center center;
+   height: 100px;
+   width: 100px;
+   position: fixed;
+   z-index: 1000;
+   left: 30%;
+   top: 30%;
+   margin: -25px 0 0 -25px;
+}
