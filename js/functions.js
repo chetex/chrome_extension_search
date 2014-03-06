@@ -2,11 +2,11 @@ $( document ).ready(function()
 {
 	$( "#pages" ).autocomplete({
 		// PRO
-		source: "http://www.muchoviaje.com/oferta/search_db/search.php",
+		source: "http://xxx/xxx/search_db/search.php",
 		// PRE
-		//source: "http://www.pre.muchoviaje.com/search_db/search.php",
+		//source: "http://xxx/xxx/search_db/search.php",
 		// LOCAL
-		//source: "http://localhost/Google chrome extension test/search_db/search.php",
+		//source: "http://xxx/xxx/search_db/search.php"",
 		minLength: 2,
 		response: function( event, ui ) {
 			$('#body').css({ 'height' : "230px", 'width' : "200px" });
