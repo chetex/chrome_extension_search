@@ -1,6 +1,6 @@
 <?php
 // PRO
-// define ('SERVER', '62.73.177.157:3306' );
+// define ('SERVER', 'xx.xx.xx.xx:3306' );
 // LOCAL
 define ('SERVER', 'localhost:3306' );
 //define ('USER', 'wordpressuser790' );
